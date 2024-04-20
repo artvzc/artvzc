@@ -1,7 +1,5 @@
 # Hi there, I'm Arthur Von Zuben Checchinato 👋
 
-## 📊 Business Data Analyst
-
 Welcome to my GitHub! I specialize in transforming complex data into actionable business insights.
 
 ### 💼 Skills
